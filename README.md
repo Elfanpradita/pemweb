@@ -17,7 +17,3 @@
 
 🚀 **Proyek Akhir:**
 Membangun aplikasi web dengan fitur lengkap.
-
-💡 *Eksplorasi dunia web development dan buat aplikasi inovatif!*
-
-
