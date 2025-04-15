@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.container {
+    border: 2px solid #ccc;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.content {
+    border: 1px solid #666;
+    padding: 10px;
+    background-color: #e0e0e0;
+}
+
+p {
+    color: blue;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+h2 {
+    color: green;
+}
